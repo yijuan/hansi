@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px;padding:0px;}
+ .ccc{  width: 100%; height: 100%;}
+ .top{ width: 60%; height: 70px; background-color: white;position:relative; top:5%;left:18%;text-align: center;}
+ .top_con{ background-color:#676767;position:relative; float:left; color:white; ;line-height:60px;}
+.lianxi{ height: 70px; width:70%; position:relative; left:13%; text-align: center; border-bottom: 1px solid #fff;}
+h3{color:white;}
+.content{height:170px; width:70%; border:1px solid white; position:relative; top:2%;  left:13%; background-color: white;}
+.con{background-color:#676767; color:white;}
+span{ margin-top:3%;}

@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0px;padding:0px;}
+/* body { padding-bottom: 60px; padding-top:60px; } */
+.contain{ width:100%; background-color: #000;}
+.navbar{ background-color: #1E1E1E; height:60px; text-align: center; line-height: 60px;}
+.img{ width:15%; height: 80%; line-height: 60px;}
+.tex{ color:#CFCBC0; font-size:16px;}
+.imgs{ height: 200px; width:100%; border-bottom: 3px solid #BAA266;}
+.middle{margin-top:3%; }
+.middle_top{ height: 120px; width: 100%;  margin-bottom:3%;}
+.top_left{ width:31%; height: 100%; background-color:#F9C019; margin-right:3%; float:left;}
+.top_left1{ width:32%; height: 100%; background-color:#01A280; margin-right:3%; float:left;}
+.top_right{width:31%; height: 100%; background-color:#008DB8;  float:left;}
+.middle_m{height: 200px; width: 100%;  margin-bottom:3%;}
+.m_left{ width:49%; height: 100%; background-color:#fff; margin-right:2%; float:left;}
+.m_left1{ width:49%; height: 100%; background-color:#fff;  float:left;}
+.m_l_t{ height: 50%; width: 100%; border:1px solid #000; background-color: #000;}
+.m_l_b{ height: 50%; width: 100%; background-color: #8BC41F;line-height:100px;}
+.b_l_t{ height: 50%; width: 100%; border:1px solid #000;background-color: #000;}
+.b_l_b{ height: 50%; width: 100%;}
+.b1{ height: 100%; width:48%; float:left;background-color: #D66C2E; margin-right:4%;}
+.b2{height: 100%; width:48%; float:left;background-color: #23B5A8;}
+.middle_b{height: 200px; width: 100%; margin-bottom:3%;}
+.b_left{ width:49%; height: 100%; background-color:#fff; margin-right:2%; float:left;}
+.b_left1{ width:49%; height: 100%; background-color:#fff;  float:left;}
+
+.bottom{ height: 50px; text-align: center;color:#CFCBC0; }
+.img1{ width:30%; height: 30%; margin-left:35%; margin-top:25%;}
+.img2{width:35%; height: 30%; margin-left:30%; margin-top:25%;}
+.te{margin-left:25%; font-weight:bold;}
+.te1{margin-left:17%; font-weight:bold;}
+
+.btl{ width:15%; height:100%; float:left;}
+.p1{ width:100%; height:100%; float:left; border-right:1px solid #FFF;}
+.p2{width:100%; height:100%; float:left; }
+.im{ width:60%; height: 40%;}
+.btr{ width:15%; height:100%; float:left;}
+.t{ color:#FAFAFA; font-weight:bold;}
+ul{padding:0;width:100%;zoom:1;}
+ul li{list-style-type:none;float:left; width:23%;}
+
+
+
+

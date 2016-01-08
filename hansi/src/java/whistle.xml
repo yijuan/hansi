@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<wx>
+	<token>whistle</token>
+	<appid>wx7f2dfab7d651d75e</appid>
+	<secret>839fe1e7c1618fc4aa0e1362bdfe1784</secret>
+	<checkRequestRestrictly>true</checkRequestRestrictly>
+	<processor-chain>
+	    <processor>com.surelution.hansi.ConmentAction</processor>
+	    <processor>com.surelution.hansi.FocusingAction</processor>
+	    <processor>com.surelution.hansi.IntroProductAction</processor>
+	    <processor>com.surelution.hansi.ShareAction</processor>
+		<processor>com.surelution.whistle.core.SampleAction</processor>
+	</processor-chain>
+</wx>

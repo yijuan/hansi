@@ -1,0 +1,57 @@
+ {
+    "button": [
+        
+        {
+            "name": "公司简介",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "关于悍思",
+                    "url": "http://qiushengming.sh-hansi.com/hansi/aboutUs/about"
+                },
+                {
+                    "type": "view",
+                    "name": "服务客户",
+                    "url": "http://qiushengming.sh-hansi.com/hansi/hanSi/serve"
+                }
+            ]
+        },
+        
+        {
+            "name": "成功案例",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "案例分享",
+                    "key": "share"
+                },
+                {
+                    "type": "view",
+                    "name": "商业合作",
+                     "url": "http://qiushengming.sh-hansi.com/hansi/hanSi/business"
+                },
+                {
+                    "type": "click",
+                    "name": "产品介绍",
+                    "key": "introPro"
+                }
+            ]
+          },
+          
+          {
+            "name": "联系我们",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "诚聘英才",
+                    "url": "http://qiushengming.sh-hansi.com/hansi/hanSi/join"
+                },
+                {
+                    "type": "view",
+                    "name": "联系我们",
+                    "url": "http://qiushengming.sh-hansi.com/hansi/hanSi/contact"
+                }
+            ]
+        }      
+    ]
+}
