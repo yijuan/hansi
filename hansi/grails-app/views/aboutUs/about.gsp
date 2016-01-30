@@ -83,8 +83,8 @@
         <div class="middle">
            <div class="middle_top">
               <a href="${createLink(action:'intro',controller:'hanSi')}"><div class="top_left"><img src="${resource(dir:'images',file:'about.png')}" class="img1"/><br><span class="te">关于悍思</span></div></a>
-              <a href="${createLink(action:'serve',controller:'hanSi')}"><div class="top_left1"><img src="${resource(dir:'images',file:'23.png')}" class="img2"/><br><span class="te">服务客户</span></div></a>
-              <a href="${createLink(action:'productIntro',controller:'hanSi')}"><div class="top_right"><img src="${resource(dir:'images',file:'in.png')}" class="img1"/><br><span class="te">产品介绍</span></div></a>
+              <a href="${createLink(action:'serve',controller:'hanSi')}"><div class="top_left1"><img src="${resource(dir:'images',file:'in.png')}" class="img2"/><br><span class="te">服务客户</span></div></a>
+              <a href="${createLink(action:'productIntro',controller:'hanSi')}"><div class="top_right"><img src="${resource(dir:'images',file:'prod.png')}" class="img1" style="width:30%; height: 25%; margin-top:30%;"/><br><span class="te">产品介绍</span></div></a>
            </div>
            
            <div class="middle_m">

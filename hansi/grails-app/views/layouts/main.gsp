@@ -115,7 +115,7 @@ body { padding-bottom: 50px; padding-top:50px;background-color: #F7EED6; }
 		<a href="${createLink(action:'serve',controller:'hanSi')}"> 
 			<div class="p1">
 			<div>
-				<img src="${resource(dir:'images',file:'233.png')}" style="width: 40%; height: 30%;"/>
+				<img src="${resource(dir:'images',file:'inn.png')}" style="width: 40%; height: 30%;"/>
 			</div>
 			<div style="margin-top:-5px;">
 				<span class="t">服务客户</span>
@@ -127,7 +127,7 @@ body { padding-bottom: 50px; padding-top:50px;background-color: #F7EED6; }
 		<a href="${createLink(action:'productIntro',controller:'hanSi')}"> 
 			<div class="p2">
 			<div>
-				<img src="${resource(dir:'images',file:'inn.png')}" style="width: 40%; height: 30%;"/>
+				<img src="${resource(dir:'images',file:'prodd.png')}" style="width: 40%; height: 30%;"/>
 			</div>
 			<div style="margin-top:-5px;">
 				<span class="t">产品介绍</span>
